@@ -1,1 +1,112 @@
 
+body {
+  background-color: #F8F8F8;
+}
+
+.train {
+
+  color: blue;
+
+}
+
+.images {
+
+width: 50%;
+
+}
+
+body {
+
+overflow-x: hidden;
+
+}
+
+.hero {
+
+color:#FD793F;
+margin-top: 120px;
+font-size: 80px;
+
+}
+
+.seperator {
+
+  margin-top: 50px;
+  padding-top: 50px;
+
+}
+
+.body {
+
+  background-color: #A4343C;
+
+}
+
+.under-hero {
+
+color:#FD793F;
+margin-top: 100px;
+font-size: 20px;
+
+}
+
+.copy {
+
+color: #FD793F;
+font-size: 20px;
+
+}
+
+.img  {
+
+width:9%;
+display:inline;
+margin-left: 5px;
+
+}
+
+.news {
+
+  background-color: #393854;
+  padding: 20px;
+  margin-top: 50px;
+  border-radius: 20px;
+
+}
+
+@media only screen and (max-width: 770px) {
+
+.hero {
+
+  font-size: 40px;
+
+}
+
+.under-hero {
+
+  font-size: 15px;
+
+}
+
+.img {
+
+width: 26px;
+
+}
+
+
+
+.news {
+
+border-radius: 10px;
+
+}
+
+
+.images {
+
+width: 100%;
+
+}
+
+}
